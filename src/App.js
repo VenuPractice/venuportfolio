@@ -7,7 +7,7 @@ import Services from './components/Services/Services';
 import Resume from './components/resume/Resume';
 import Portfolio from './components/portfolio/Portfolio';
 import Contact from './components/Contact/Contact';
-import Testimonials from './components/testimonials/Testimonials';
+//import Testimonials from './components/testimonials/Testimonials';
 
 const App = () => {
   return (

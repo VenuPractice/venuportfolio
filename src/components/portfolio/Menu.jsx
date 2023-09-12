@@ -27,7 +27,7 @@ const Menu = [
   {
     id: 4,
     image: Work4,
-    title: "Onboarding Motivation",
+    title: "Portfolio website",
     category: "Design",
   },
   

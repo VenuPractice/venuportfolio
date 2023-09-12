@@ -20,6 +20,7 @@
 }
 
 .work__card {
+  height: 200px;
   position: relative;
   overflow: hidden;
   border-radius: var(--border-radius);

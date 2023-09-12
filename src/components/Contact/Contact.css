@@ -42,6 +42,10 @@
   height: 10.25rem;
 }
 
-contact__form-area, textarea {
+contact__form-area,
+textarea {
   resize: none;
+}
+.send {
+  margin-top: 150px;
 }
